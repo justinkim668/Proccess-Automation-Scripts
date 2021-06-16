@@ -1,7 +1,7 @@
 ### Process Automation Scripts
 This is collection of simple Python & Javascript/Typescript scripts I use to automate multiple processes at work. Feel free to use these if you want to automate some of your own tedious tasks at work and make life a little easier.
 
-Frameworks used: Pandas, Requests-HTML, BeautifulSoup, Office Scripts API
+Frameworks used: Pandas, Requests-HTML, BeautifulSoup, Office Scripts API. 
 DISCLAIMER: No proprietary or senstive information was used to publish these scripts to GitHub.
 
 ## Descriptions of the scripts
