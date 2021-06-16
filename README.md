@@ -12,3 +12,5 @@ date_reformatter2.py - Given a .csv file with a list of dates formatted as 'DDMM
 email_extractor.py - Given a URL, the script will scrape the HTML of the website and return with a list of email addresses.
 
 columnAbsVal.js - Given an excel sheet, the script will convert the values stored within columns into absolute values of themselves, which turns all the values positive.  This process can be looped over multiple columns.
+
+compose_email.py - Given a list of emails ina .csv file and a template email, this script will take the names and and compose your emails for you.  No more copying from excel into the body of the email, especially when you have to do this for 100+ names. 
